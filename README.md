@@ -3,7 +3,7 @@ This is a repo for a super simple online bank application in Java to run in Wind
 
 WARINING / DISCLAIMER: No security or error handling implementations have been added.
 
-To run this app from the command line in Microsoft Windows:
+To run this app from the command line (after compilation) in Microsoft Windows:
 
 Prerequisites:
 
