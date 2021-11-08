@@ -19,11 +19,7 @@ Instructions to run the program:
 * The menu items are shown.
 * The user selects an item in response to the selection prompts.
 * Please follow the on screen prompts carefully.
-3.	Press 5 and hit the enter key to exit at the end.
- 
-Example Output:
-
- 
+3.	Press 5 and hit the enter key to exit at the end. 
 
 Troubleshooting:
 
