@@ -33,7 +33,7 @@ public class AccountManager { //main class start
         Scanner input = new Scanner(System.in);
         
         //user greeting
-        System.out.println("Welcome to Premier Advantage Bank Online!");
+        System.out.println("Welcome to Super Simple Bank App Online!");
         
         // variable for storing the user selection in the menu
         int choice;
