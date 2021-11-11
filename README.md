@@ -26,7 +26,7 @@ Please Note: The phone number at the bottom is an arbitrary number chosen for th
 Example Output:
 
 ```
-Welcome to Premier Advantage Bank Online!
+Welcome to Super Simple Bank App Online!
 Main Menu
 Please make a selection from the following choices:
 
