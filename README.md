@@ -21,6 +21,24 @@ Instructions to run the program:
 * Please follow the on screen prompts carefully.
 3.	Press 5 and hit the enter key to exit at the end. 
 
+Please Note: The phone number at the bottom is an arbitrary number chosen for the project. (It is not valid).
+
+Example Output:
+
+```
+Welcome to Premier Advantage Bank Online!
+Main Menu
+Please make a selection from the following choices:
+
+ 1. Check Balances
+ 2. Transfer Money
+ 3. View Transactions
+
+Press 5 to exit the system
+For Customer Service please call: 
+1-800-125-7535
+```
+
 Troubleshooting:
 
 If there is an error message stating that “’java’ is not recognized as an internal or external command, operable program or batch file” then you do not have the JRE installed.  Please see the prerequisites to install it. 
